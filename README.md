@@ -1,6 +1,6 @@
 Element.setRGBA
 ========
-This is a simple method that sets RGBA background on elemenets. Method inspired by (this article)[http://css-tricks.com/rgba-browser-support/]
+This is a simple method that sets RGBA background on elemenets. Method inspired by [this article](http://css-tricks.com/rgba-browser-support/)
 
 
 How to use
